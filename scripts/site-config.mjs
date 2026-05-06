@@ -1,5 +1,5 @@
 /** Замените на ваш домен перед выкладкой */
-export const SITE_ORIGIN = "https://YOURDOMAIN.com";
+export const SITE_ORIGIN = "https://zevs-of-hades.vercel.app";
 
 /** Реферальная ссылка (все CTA) */
 export const AFFILIATE_URL =

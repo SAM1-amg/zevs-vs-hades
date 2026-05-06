@@ -1,202 +1,333 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/index.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/index.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/play.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/play.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/demo.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/demo.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/download.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/download.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/how-to-win.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/how-to-win.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/strategies.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/strategies.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/reviews.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/reviews.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/rtp.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/rtp.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/play-real-money.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/play-real-money.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/play-free.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/play-free.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/play-no-registration.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/play-no-registration.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/play-online.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/play-online.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/play-mobile.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/play-mobile.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/download-android.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/download-android.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/download-ios.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/download-ios.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/download-pc.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/download-pc.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/download-apk.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/download-apk.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/deposit-card.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/deposit-card.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/mastercard.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/mastercard.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/visa.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/visa.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/bitcoin.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/bitcoin.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/usdt.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/usdt.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/qiwi.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/qiwi.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/sbp.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/sbp.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/yandex-pay.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/yandex-pay.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/neteller.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/neteller.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/skrill.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/skrill.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/slot-gates-of-olympus.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/slot-gates-of-olympus.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/slot-sweet-bonanza.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/slot-sweet-bonanza.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/slot-starlight-princess.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/slot-starlight-princess.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/slot-dog-house.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/slot-dog-house.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/slot-fruit-party.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/slot-fruit-party.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://zeus-vs-hades.vercel.app/ru/slot-big-bass-bonanza.html</loc>
+    <loc>https://zevs-of-hades.vercel.app/ru/slot-big-bass-bonanza.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/index.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/play.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/demo.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/download.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/how-to-win.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/strategies.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/reviews.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/rtp.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/play-real-money.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/play-free.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/play-no-registration.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/play-online.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/play-mobile.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/download-android.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/download-ios.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/download-pc.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/download-apk.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/deposit-card.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/mastercard.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/visa.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/bitcoin.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/usdt.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/qiwi.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/sbp.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/yandex-pay.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/neteller.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/skrill.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/slot-gates-of-olympus.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/slot-sweet-bonanza.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/slot-starlight-princess.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/slot-dog-house.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/slot-fruit-party.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zevs-of-hades.vercel.app/en/slot-big-bass-bonanza.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
