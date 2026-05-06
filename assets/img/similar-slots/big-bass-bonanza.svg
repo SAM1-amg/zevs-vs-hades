@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-label="Big Bass Bonanza">
+  <defs>
+    <linearGradient id="bb" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0277bd"/>
+      <stop offset="50%" style="stop-color:#00838f"/>
+      <stop offset="100%" style="stop-color:#4dd0e1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bb)"/>
+  <text x="200" y="165" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="24" font-weight="700">Big Bass Bonanza</text>
+  <text x="200" y="215" text-anchor="middle" fill="#e1f5fe" font-family="system-ui,sans-serif" font-size="13">Pragmatic Play</text>
+</svg>

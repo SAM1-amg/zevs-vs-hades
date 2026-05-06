@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-label="The Dog House">
+  <defs>
+    <linearGradient id="dh" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2e7d32"/>
+      <stop offset="50%" style="stop-color:#bf6c1a"/>
+      <stop offset="100%" style="stop-color:#8d4e1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#dh)"/>
+  <text x="200" y="175" text-anchor="middle" fill="#fff8e7" font-family="Georgia,serif" font-size="26" font-weight="700">The Dog House</text>
+  <text x="200" y="215" text-anchor="middle" fill="#e8dcc8" font-family="system-ui,sans-serif" font-size="13">Pragmatic Play</text>
+</svg>
